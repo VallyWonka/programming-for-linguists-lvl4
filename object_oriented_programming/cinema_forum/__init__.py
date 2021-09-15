@@ -1,0 +1,3 @@
+from object_oriented_programming.cinema_forum.film import Film
+from object_oriented_programming.cinema_forum.user import User
+from object_oriented_programming.cinema_forum.admin import Admin
