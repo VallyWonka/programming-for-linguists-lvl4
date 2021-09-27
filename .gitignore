@@ -1,4 +1,4 @@
 .idea/
-.json
-./__pycache__/
+**/__pycache__/
+*.json
 .env
